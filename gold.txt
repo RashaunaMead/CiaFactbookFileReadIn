@@ -1,0 +1,168 @@
+1	China	$    3,341,000,000,000
+2	Japan	$    1,268,000,000,000
+3	European Union	$     863,800,000,000
+4	Saudi Arabia	$     656,900,000,000
+5	Russia	$     537,600,000,000
+6	Switzerland	$     531,100,000,000
+7	Taiwan	$     408,500,000,000
+8	Brazil	$     373,100,000,000
+9	Korea, South	$     327,000,000,000
+10	Hong Kong	$     317,400,000,000
+11	India	$     297,800,000,000
+12	Singapore	$     259,100,000,000
+13	Germany	$     248,900,000,000
+14	Algeria	$     191,600,000,000
+15	France	$     184,500,000,000
+16	Italy	$     181,700,000,000
+17	Thailand	$     181,600,000,000
+18	Mexico	$     167,100,000,000
+19	United States	$     150,200,000,000
+20	Malaysia	$     139,700,000,000
+21	Turkey	$     119,200,000,000
+22	Libya	$     118,600,000,000
+23	Indonesia	$     112,800,000,000
+24	Poland	$     108,900,000,000
+25	United Kingdom	$     105,100,000,000
+26	Denmark	$      89,700,000,000
+27	Philippines	$      83,830,000,000
+28	Israel	$      75,910,000,000
+29	Iran	$      74,060,000,000
+30	Iraq	$      70,330,000,000
+31	Canada	$      68,550,000,000
+32	Peru	$      64,170,000,000
+33	Netherlands	$      54,820,000,000
+34	Lebanon	$      52,500,000,000
+35	Sweden	$      52,230,000,000
+36	Norway	$      51,860,000,000
+37	South Africa	$      50,700,000,000
+38	Spain	$      50,590,000,000
+39	Australia	$      49,150,000,000
+40	United Arab Emirates	$      47,040,000,000
+41	Romania	$      46,710,000,000
+42	Nigeria	$      46,410,000,000
+43	Czech Republic	$      44,880,000,000
+44	Hungary	$      44,670,000,000
+45	Argentina	$      43,250,000,000
+46	Chile	$      41,650,000,000
+47	Colombia	$      37,000,000,000
+48	Angola	$      33,410,000,000
+49	Qatar	$      33,190,000,000
+50	Belgium	$      30,770,000,000
+51	Venezuela	$      29,890,000,000
+52	Kuwait	$      29,000,000,000
+53	Kazakhstan	$      28,280,000,000
+54	Austria	$      27,210,000,000
+55	Vietnam	$      26,110,000,000
+56	Ukraine	$      24,550,000,000
+57	Portugal	$      22,660,000,000
+58	Turkmenistan	$      20,710,000,000
+59	Bulgaria	$      20,500,000,000
+60	New Zealand	$      17,580,000,000
+61	Morocco	$      17,540,000,000
+62	Macau	$      16,600,000,000
+63	Uzbekistan	$      16,000,000,000
+64	Egypt	$      14,930,000,000
+65	Croatia	$      14,810,000,000
+66	Oman	$      14,400,000,000
+67	Serbia	$      14,400,000,000
+68	Bolivia	$      13,930,000,000
+69	Pakistan	$      13,800,000,000
+70	Uruguay	$      13,600,000,000
+71	Bangladesh	$      12,750,000,000
+72	Azerbaijan	$      11,280,000,000
+73	Finland	$      11,080,000,000
+74	Trinidad and Tobago	$       9,897,000,000
+75	Jordan	$       8,829,000,000
+76	Lithuania	$       8,529,000,000
+77	Tunisia	$       8,360,000,000
+78	Botswana	$       7,628,000,000
+79	Latvia	$       7,523,000,000
+80	Greece	$       7,255,000,000
+81	Sri Lanka	$       7,105,000,000
+82	Burma	$       6,977,000,000
+83	Costa Rica	$       6,857,000,000
+84	Guatemala	$       6,694,000,000
+85	Yemen	$       6,158,000,000
+86	Afghanistan	$       5,983,000,000
+87	Belarus	$       5,809,000,000
+88	Kenya	$       5,712,000,000
+89	Ghana	$       5,705,000,000
+90	Congo, Republic of the	$       5,568,000,000
+91	Bahrain	$       5,211,000,000
+92	Paraguay	$       4,994,000,000
+93	Cambodia	$       4,938,000,000
+94	Syria	$       4,793,000,000
+95	Cuba	$       4,693,000,000
+96	Equatorial Guinea	$       4,397,000,000
+97	Nepal	$       4,339,000,000
+98	Bosnia and Herzegovina	$       4,283,000,000
+99	Iceland	$       4,192,000,000
+100	Tanzania	$       4,053,000,000
+101	Papua New Guinea	$       4,001,000,000
+102	Cote d'Ivoire	$       3,928,000,000
+103	Dominican Republic	$       3,579,000,000
+104	Cameroon	$       3,431,000,000
+105	Ethiopia	$       3,272,000,000
+106	El Salvador	$       3,176,000,000
+107	Uganda	$       3,167,000,000
+108	Mauritius	$       3,046,000,000
+109	Zambia	$       3,042,000,000
+110	Macedonia	$       2,891,000,000
+111	Georgia	$       2,873,000,000
+112	Mozambique	$       2,770,000,000
+113	Albania	$       2,600,000,000
+114	Honduras	$       2,533,000,000
+115	Slovakia	$       2,519,000,000
+116	Moldova	$       2,515,000,000
+117	Ecuador	$       2,483,000,000
+118	Panama	$       2,466,000,000
+119	Gabon	$       2,373,000,000
+120	Senegal	$       2,082,000,000
+121	Kyrgyzstan	$       2,066,000,000
+122	Jamaica	$       1,981,000,000
+123	Nicaragua	$       1,887,000,000
+124	Armenia	$       1,799,000,000
+125	Namibia	$       1,738,000,000
+126	Ireland	$       1,707,000,000
+127	Congo, Democratic Republic of the	$       1,633,000,000
+128	Haiti	$       1,287,000,000
+129	Cyprus	$       1,191,000,000
+130	Madagascar	$       1,191,000,000
+131	Chad	$       1,174,000,000
+132	Burkina Faso	$       1,025,000,000
+133	Suriname	$       1,008,000,000
+134	Luxembourg	$        991,000,000
+135	Slovenia	$        951,900,000
+136	Fiji	$        921,400,000
+137	Guyana	$        864,000,000
+138	Rwanda	$        847,800,000
+139	Bahamas, The	$        846,900,000
+140	Barbados	$        839,700,000
+141	Laos	$        796,900,000
+142	Lesotho	$        749,400,000
+143	Swaziland	$        741,000,000
+144	Benin	$        712,800,000
+145	Malta	$        704,900,000
+146	Tajikistan	$        628,500,000
+147	Zimbabwe	$        575,600,000
+148	Togo	$        441,600,000
+149	Montenegro	$        400,000,000
+150	Cabo Verde	$        376,000,000
+151	Maldives	$        356,000,000
+152	Seychelles	$        318,700,000
+153	Burundi	$        308,800,000
+154	Estonia	$        300,700,000
+155	Belize	$        288,900,000
+156	Malawi	$        246,000,000
+157	Gambia, The	$        236,200,000
+158	Sudan	$        192,600,000
+159	Vanuatu	$        187,300,000
+160	Eritrea	$        174,400,000
+161	Guinea	$        174,300,000
+162	Samoa	$        168,700,000
+163	Tonga	$        152,400,000
+164	Saint Vincent and the Grenadines	$        111,000,000
+165	Dominica	$         94,560,000
+166	Micronesia, Federated States of	$         75,060,000
+167	Sao Tome and Principe	$         51,590,000
+168	Montserrat	$         32,080,000
